@@ -16,7 +16,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nxlllllllnxlllllll/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nxlllllll/nxlllllll/output/snake.svg" alt="Snake animation" />
 </p>
 
 ###
